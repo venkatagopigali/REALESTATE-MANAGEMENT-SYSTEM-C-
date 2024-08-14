@@ -1,0 +1,14 @@
+C:\Users\venka\OneDrive\Desktop\.net\R\R\bin\Debug\net8.0\R.exe
+C:\Users\venka\OneDrive\Desktop\.net\R\R\bin\Debug\net8.0\R.deps.json
+C:\Users\venka\OneDrive\Desktop\.net\R\R\bin\Debug\net8.0\R.runtimeconfig.json
+C:\Users\venka\OneDrive\Desktop\.net\R\R\bin\Debug\net8.0\R.dll
+C:\Users\venka\OneDrive\Desktop\.net\R\R\bin\Debug\net8.0\R.pdb
+C:\Users\venka\OneDrive\Desktop\.net\R\R\obj\Debug\net8.0\R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venka\OneDrive\Desktop\.net\R\R\obj\Debug\net8.0\R.AssemblyInfoInputs.cache
+C:\Users\venka\OneDrive\Desktop\.net\R\R\obj\Debug\net8.0\R.AssemblyInfo.cs
+C:\Users\venka\OneDrive\Desktop\.net\R\R\obj\Debug\net8.0\R.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\.net\R\R\obj\Debug\net8.0\R.dll
+C:\Users\venka\OneDrive\Desktop\.net\R\R\obj\Debug\net8.0\refint\R.dll
+C:\Users\venka\OneDrive\Desktop\.net\R\R\obj\Debug\net8.0\R.pdb
+C:\Users\venka\OneDrive\Desktop\.net\R\R\obj\Debug\net8.0\R.genruntimeconfig.cache
+C:\Users\venka\OneDrive\Desktop\.net\R\R\obj\Debug\net8.0\ref\R.dll
